@@ -1,0 +1,24 @@
+{
+    "steps": [
+        {
+            "story": "This is step 1",
+            "nextStep": 1,
+            "option2": 3
+        },
+        {
+            "story": "This is step 2",
+            "nextStep": 2,
+            "option2": 1
+        },
+        {
+            "story": "This is step 3",
+            "nextStep": 3,
+            "option2": 1
+        },
+        {
+            "story": "Back to step 1",
+            "nextStep": 0,
+            "option2": 1
+        }
+    ]
+}
